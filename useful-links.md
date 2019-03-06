@@ -1,16 +1,18 @@
-# R - base info
+# R
+..* Base info
 [https://cran.r-project.org](https://cran.r-project.org)
 
 [https://www.rstudio.com](https://www.rstudio.com)
 
-# R - Plotting
+..* Plotting
 [https://www.r-graph-gallery.com](https://www.r-graph-gallery.com)
 
 [https://plot.ly/r](https://plot.ly/r)
 
 ---
 
-# Python - base info
+# Python
+..* Base info
 [https://www.python.org](https://www.python.org)
 
 [https://www.anaconda.com/distribution](https://www.anaconda.com/distribution)
@@ -23,11 +25,21 @@
 
 [https://www.sublimetext.com](https://www.sublimetext.com)
 
-# Python - Plotting
+..* Plotting
+[https://python-graph-gallery.com](https://python-graph-gallery.com)
+
 [https://matplotlib.org](https://matplotlib.org)
 
 [https://plot.ly/python](https://plot.ly/python)
 
-# Matlab
+---
 
+# Matlab
+..* Base info
+[https://au.mathworks.com](https://au.mathworks.com)
+
+[https://au.mathworks.com/matlabcentral/index.html](https://au.mathworks.com/matlabcentral/index.html)
+
+..* Plotting
+[https://au.mathworks.com/products/matlab/plot-gallery.html](https://au.mathworks.com/products/matlab/plot-gallery.html)
 
