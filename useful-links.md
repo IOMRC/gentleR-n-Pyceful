@@ -5,6 +5,8 @@
 
 [https://www.rstudio.com](https://www.rstudio.com)
 
+[https://www.r-bloggers.com](https://www.r-bloggers.com)
+
 * ## Plotting
 
 [https://www.r-graph-gallery.com](https://www.r-graph-gallery.com)
