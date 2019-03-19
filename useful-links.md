@@ -13,6 +13,8 @@
 
 [https://plot.ly/r](https://plot.ly/r)
 
+[https://www.tern.org.au/Newsletter-2019-Mar-slga-R-pg32799.html](https://www.tern.org.au/Newsletter-2019-Mar-slga-R-pg32799.html)
+
 ---
 
 # Python
